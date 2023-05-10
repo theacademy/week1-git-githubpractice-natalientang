@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24de9a7d-ccc1-4b00-abc2-9583f8550207" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../day3-variables/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day3-variables/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day3-variables/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day3-variables/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day3-variables/day3-variables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day3-variables/src/variables.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2PcDUTmAY0z7yJONZxslJeWjiZS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "/Users/natalietang/wiley-projects/week1-git-githubpractice-natalientang/day3-WindowsMaster/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24de9a7d-ccc1-4b00-abc2-9583f8550207" name="Changes" comment="" />
+      <created>1683747493621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683747493621</updated>
+    </task>
+    <servers />
+  </component>
+</project>
